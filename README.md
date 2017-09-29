@@ -300,51 +300,12 @@ Broid integrations supports [Activity Streams 2.0](https://t.broid.ai/c/LSB12U?u
 |:--:|:----:|
 |broid-schemas |[![schemas][schemas-npm]][schemas-url] [![schemas][schemas-dm]][schemas-dm-url] [![schemas][integration-doc-badge]][schemas-url]|
 
-## ❤️️ Contribute ❤️️
-
-See [CONTRIBUTE.md](CONTRIBUTE.md).
-<br><br>
 ## 👮 CLA 👮
 
-To protect the interests of the Broid contributors, Broid, customers and end users we require contributors to sign a [Contributors License Agreement](https://cla-assistant.io/broidhq/integrations) (CLA) before we pull the changes into the main repository. [Our CLA](https://cla-assistant.io/broidhq/integrations) is simple and straightforward - it requires that the contributions you make to any Broid open source project are properly licensed and that you have the legal authority to make those changes. This helps us significantly reduce future legal risk for everyone involved. It's easy---no faxing or printing required!
+To protect the interests of the Broid contributors, Broid, customers and end users we require contributors to sign a [Contributors License Agreement](https://cla-assistant.io/openjaw/integrations) (CLA) before we pull the changes into the main repository. [Our CLA](https://cla-assistant.io/openjaw/integrations) is simple and straightforward - it requires that the contributions you make to any OpenJaw open source project are properly licensed and that you have the legal authority to make those changes. This helps us significantly reduce future legal risk for everyone involved. It's easy---no faxing or printing required!
 
-You can digitally sign the [CLA online](https://cla-assistant.io/broidhq/integrations). Please indicate your email address in your first pull request so that we can make sure that will locate your CLA. Once you've submitted it, you no longer need to send one for subsequent submissions.
+You can digitally sign the [CLA online](https://cla-assistant.io/openjaw/integrations). Please indicate your email address in your first pull request so that we can make sure that will locate your CLA. Once you've submitted it, you no longer need to send one for subsequent submissions.
 <br><br>
-
-## 📣 Support Broid 📣
-
-<p align="center">
-  <a href="http://www.broid.ai?utm_source=github&utm_medium=readme&utm_campaign=premium">
-    <img src="https://img.shields.io/badge/✅_-Premium_Integrations-00BFFF.svg?style=flat" alt="Contribuyentes">
-  </a>
-  <a href="http://www.broid.ai?utm_source=github&utm_medium=readme&utm_campaign=premium">
-    <img src="https://img.shields.io/badge/💰_-$9.99_per_month-00BFFF.svg?style=flat" alt="Contribuyentes">
-  </a>
-  <a href="http://www.broid.ai?utm_source=github&utm_medium=readme&utm_campaign=premium">
-    <img src="https://img.shields.io/badge/🔒_-Secure_encryption_and_failover-00BFFF.svg?style=flat" alt="Speakers">
-  </a>
-  <a href="http://www.broid.ai?utm_source=github&utm_medium=readme&utm_campaign=premium">
-    <img src="https://img.shields.io/badge/∞_-Unlimited_Messages-00BFFF.svg?style=flat" alt="Speakers">
-  </a>
-  <a href="http://www.broid.ai?utm_source=github&utm_medium=readme&utm_campaign=premium">
-    <img src="https://img.shields.io/badge/📊_-Admin_Dashboard-00BFFF.svg?style=flat" alt="Speakers">
-  </a>
-<br><br>
-</p>
-
-In order to continue providing the community with our open source work, we offer a [Public API](https://www.broid.ai?utm_source=github&utm_medium=readme&utm_campaign=support). Paying users get additionnal features and early access to new integrations:
-
-* **Premium Integrations**
-	* Message Bird
-	* Web Messenger (live chat for website and mobile apps with FB Messenger like features)
-	* Github
-	* ++ more ++
-* **Unlimited Messages & users**
-* **Secure encryption & Failover system**
-* **Access to Admin Dashboard**
-* **Priviledged Technical Support**
-
-> Only $9.99 per month per active integration
 
 ## Thanks
 Project cross-browser compatibility supported by [BrowserStack](https://browserstack.com)
